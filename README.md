@@ -1,3 +1,3 @@
 <h1>Swordbattle</h1>
-<p>this is not my project, I cloned it just for studying</p>
-<p>Owner of the project: codergautam</p>
+<p>Snapped this from somewhere</p>
+<p>this is not my project,for study only</p>
